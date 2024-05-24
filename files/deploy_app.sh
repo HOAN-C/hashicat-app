@@ -12,6 +12,8 @@ cat << EOM > /var/www/html/index.html
 
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
+  <img alt="이쁜사진멋진사진" src=""/>
+  <div>First PR on TERRAFORM</div>
   <center><h2>Meow World!</h2></center>
   Welcome to ${PREFIX}'s app. Replace this text with your own.
   <!-- END -->
